@@ -194,6 +194,7 @@ By embracing structured methodologies, data scientists can ensure the success of
 - Christensen, Clayton M. "The Innovator's Dilemma: The Revolutionary Book That Will Change the Way You Do Business."
 
 ### 9.2 Kaggle Competition Links
+*** Action Item - Find Projects Referenced Below ***
 - [Rossmann Store Sales Winning Solution](https://www.kaggle.com/c/rossmann-store-sales/discussion/17831)
 - [House Prices Winning Solution](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/22296)
 - [Two Sigma Financial Modeling Challenge](https://www.kaggle.com/c/two-sigma-financial-modeling)
