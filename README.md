@@ -1317,13 +1317,7 @@ In conclusion, each methodology offers unique strengths and is suited to differe
 ### Introduction
 Selecting the appropriate data science methodology for cybersecurity projects is crucial for effectively managing threats and optimizing security measures. This section provides practical guidance to help security teams determine the most suitable methodology for their specific situations.
 
-### 6.1 Decision Tree for Methodology Selection
-<details>
-<summary>Click to view the decision tree</summary>
-<img src="decision_tree.png" alt="Decision Tree for Methodology Selection">
-</details>
-
-### 6.2 Use Case Scenarios
+### 6.1 Use Case Scenarios
 **Scenario 1: Detecting Fraudulent Transactions**
 - **Recommended Methodologies**: CRISP-DM, SEMMA
 - **Rationale**: These methodologies provide structured and iterative approaches suitable for developing and refining fraud detection models.
@@ -1340,7 +1334,7 @@ Selecting the appropriate data science methodology for cybersecurity projects is
 - **Recommended Methodologies**: Risk Quantification and Analytics, IBM Data Science Methodology
 - **Rationale**: Focus on detailed analysis and quantitative risk management to ensure regulatory compliance and effective risk mitigation.
 
-### 6.3 Evaluation Criteria Matrix
+### 6.2 Evaluation Criteria Matrix
 
 | Criterion                      | CRISP-DM | IBM Data Science Methodology | TDSP | KDD | SEMMA | CSDS | Security-Oriented Agile | Threat Modeling | AI-Driven Frameworks | Risk Analytics |
 |--------------------------------|----------|------------------------------|------|-----|-------|------|-------------------------|-----------------|----------------------|----------------|
@@ -1360,7 +1354,7 @@ Selecting the appropriate data science methodology for cybersecurity projects is
 | **Robustness to Evolving Threats** | High     | High                         | High  | High  | High   | Very High | High  | Very High | Very High | High         |
 | **Data Requirements**          | High     | High                         | High  | High  | High   | High | High  | High | High | High           |
 
-### 6.4 Expert Recommendations and Best Practices
+### 6.3 Expert Recommendations and Best Practices
 **General Advice**
 - **CRISP-DM**: Best for well-defined projects with clear objectives. Ensure thorough data preparation and iterative modeling.
 - **IBM Data Science Methodology**: Suitable for detailed, hypothesis-driven projects. Plan extensively and engage stakeholders regularly.
