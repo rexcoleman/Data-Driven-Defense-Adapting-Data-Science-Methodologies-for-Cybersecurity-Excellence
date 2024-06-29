@@ -16,19 +16,15 @@ In today's rapidly evolving landscape of data science and artificial intelligenc
     - [3.2 CRISP-DM Framework](#32-crisp-dm-framework)
         - [3.2.1 Overview of CRISP-DM](#321-overview-of-crisp-dm)
         - [3.2.2 Phases of CRISP-DM](#322-phases-of-crisp-dm)
-        - [3.2.3 Case Study 1: Application of CRISP-DM in a Kaggle Competition](#323-case-study-1-application-of-crisp-dm-in-a-kaggle-competition)
     - [3.3 TDSP (Team Data Science Process)](#33-tdsp-team-data-science-process)
         - [3.3.1 Overview of TDSP](#331-overview-of-tdsp)
         - [3.3.2 Phases of TDSP](#332-phases-of-tdsp)
-        - [3.3.3 Case Study 2: Application of TDSP in a Kaggle Competition](#333-case-study-2-application-of-tdsp-in-a-kaggle-competition)
     - [3.4 Agile Data Science](#34-agile-data-science)
         - [3.4.1 Overview of Agile Data Science](#341-overview-of-agile-data-science)
         - [3.4.2 Phases of Agile Data Science](#342-phases-of-agile-data-science)
-        - [3.4.3 Case Study 3: Application of Agile Data Science in a Kaggle Competition](#343-case-study-3-application-of-agile-data-science-in-a-kaggle-competition)
     - [3.5 Lean Data Science](#35-lean-data-science)
         - [3.5.1 Overview of Lean Data Science](#351-overview-of-lean-data-science)
         - [3.5.2 Phases of Lean Data Science](#352-phases-of-lean-data-science)
-        - [3.5.3 Case Study 4: Application of Lean Data Science in a Kaggle Competition](#353-case-study-4-application-of-lean-data-science-in-a-kaggle-competition)
 4. [Comparative Analysis](#4-comparative-analysis)
 5. [Best Practices Outside of Kaggle](#5-best-practices-outside-of-kaggle)
 6. [Challenges and Solutions](#6-challenges-and-solutions)
@@ -88,9 +84,6 @@ CRISP-DM consists of six phases:
 - **Evaluation**: Assessing the models' performance.
 - **Deployment**: Implementing the model in a production environment.
 
-#### 3.2.3 Case Study 1: Application of CRISP-DM in a Kaggle Competition
-In the "Rossmann Store Sales" competition, the winning submission by Marios Michailidis utilized the CRISP-DM framework. The team systematically followed the phases of business understanding, data understanding, data preparation, modeling, evaluation, and deployment. This structured approach allowed them to effectively predict store sales, resulting in their top placement in the competition.
-
 Reference: [Rossmann Store Sales Winning Solution](https://www.kaggle.com/c/rossmann-store-sales/discussion/17831)
 
 ### 3.3 TDSP (Team Data Science Process)
@@ -107,11 +100,6 @@ TDSP consists of several phases:
 - **Deployment**: Deploying the model to a production environment.
 - **Customer Acceptance**: Ensuring the solution meets business needs and objectives.
 
-#### 3.3.3 Case Study 2: Application of TDSP in a Kaggle Competition
-In the "House Prices: Advanced Regression Techniques" competition, the second-place team "SRK" applied the TDSP methodology. They collaborated to define the business problem, collect and understand the data, build and validate models, and deploy their solution. This structured approach facilitated their high-ranking performance.
-
-Reference: [House Prices Winning Solution](https://www.kaggle.com/c/house-prices-advanced-regression-techniques/discussion/22296)
-
 ### 3.4 Agile Data Science
 
 #### 3.4.1 Overview of Agile Data Science
@@ -125,11 +113,6 @@ Agile Data Science typically involves the following phases:
 - **Execution**: Developing and refining models in short cycles.
 - **Review and Retrospective**: Evaluating progress and making improvements.
 
-#### 3.4.3 Case Study 3: Application of Agile Data Science in a Kaggle Competition
-An example of Agile Data Science in a Kaggle competition can be seen in the "Two Sigma Financial Modeling Challenge." Teams that applied Agile principles iteratively refined their models, leading to improved performance over successive submissions.
-
-Reference: [Two Sigma Financial Modeling Challenge](https://www.kaggle.com/c/two-sigma-financial-modeling)
-
 ### 3.5 Lean Data Science
 
 #### 3.5.1 Overview of Lean Data Science
@@ -141,11 +124,6 @@ Lean Data Science involves:
 - **Value Stream Mapping**: Identifying value-adding activities.
 - **Flow Optimization**: Streamlining processes to enhance flow.
 - **Continuous Improvement**: Regularly refining processes and models.
-
-#### 3.5.3 Case Study 4: Application of Lean Data Science in a Kaggle Competition
-In the "Walmart Recruiting: Trip Type Classification" competition, teams that adopted Lean Data Science principles were able to efficiently handle large datasets and iteratively improve their models, resulting in high-ranking performances.
-
-Reference: [Walmart Recruiting: Trip Type Classification](https://www.kaggle.com/c/walmart-recruiting-trip-type-classification)
 
 ## 4. Comparative Analysis
 Comparing projects that used different structured approaches reveals that those following established frameworks like CRISP-DM and TDSP tend to perform better. These methodologies ensure that all aspects of the project are covered, leading to more robust and accurate models.
