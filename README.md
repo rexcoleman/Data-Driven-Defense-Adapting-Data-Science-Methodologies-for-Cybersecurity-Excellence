@@ -26,12 +26,11 @@ By examining theoretical aspects and practical applications, this report seeks t
      - [4.2.3 Threat Modeling](#423-threat-modeling)
      - [4.2.4 AI-Driven Predictive Cybersecurity Frameworks](#424-ai-driven-predictive-cybersecurity-frameworks)
      - [4.2.5 Risk Quantification and Analytics](#425-risk-quantification-and-analytics)
-5. [Case Studies](#5-case-studies)
-6. [Comparative Analysis of Methodologies](#6-comparative-analysis-of-methodologies)
-7. [Selecting the Right Methodology for Cybersecurity Projects](#7-selecting-the-right-methodology-for-cybersecurity-projects)
-8. [Conclusion](#8-conclusion)
-9. [References](#9-references)
-10. [Appendix](#10-appendix)
+5. [Comparative Analysis of Methodologies](#5-comparative-analysis-of-methodologies)
+6. [Selecting the Right Methodology for Cybersecurity Projects](#6-selecting-the-right-methodology-for-cybersecurity-projects)
+7. [Conclusion](#7-conclusion)
+8. [References](#8-references)
+9. [Appendix](#9-appendix)
 
 
 ## 1. Introduction
