@@ -1341,12 +1341,24 @@ Selecting the appropriate data science methodology for cybersecurity projects is
 - **Rationale**: Focus on detailed analysis and quantitative risk management to ensure regulatory compliance and effective risk mitigation.
 
 ### 6.3 Evaluation Criteria Matrix
-| Criterion | CRISP-DM | IBM Data Science Methodology | TDSP | KDD | SEMMA | CSDS | Security-Oriented Agile | Threat Modeling | AI-Driven Frameworks | Risk Analytics |
-|-----------|----------|------------------------------|------|-----|-------|------|-------------------------|-----------------|----------------------|----------------|
-| **Data Availability** | High | High | Moderate | High | Moderate | High | Moderate | High | High | High |
-| **Team Expertise** | Moderate | High | High | Moderate | Moderate | High | Moderate | High | High | High |
-| **Project Scope** | Broad | Detailed | Broad | Broad | Rapid | Specialized | Agile | Detailed | Predictive | Quantitative |
-| **Urgency** | Moderate | Moderate | High | Moderate | High | High | High | Moderate | High | Moderate |
+
+| Criterion                      | CRISP-DM | IBM Data Science Methodology | TDSP | KDD | SEMMA | CSDS | Security-Oriented Agile | Threat Modeling | AI-Driven Frameworks | Risk Analytics |
+|--------------------------------|----------|------------------------------|------|-----|-------|------|-------------------------|-----------------|----------------------|----------------|
+| **Applicability to Cybersecurity** | High     | High                         | High | High| High   | High | High                    | High            | High                 | High           |
+| **Complexity**                 | Moderate | High                         | Moderate-High | Moderate | Moderate | High | Moderate | High | High | Moderate-High |
+| **Scalability**                | High     | High                         | Very High | High  | Moderate | High | Very High | High | Very High | High          |
+| **Adaptability**               | High     | High                         | High | High | High   | Very High | Very High | High | Very High | High           |
+| **Ease of Implementation**     | Moderate | Moderate                     | Moderate | Moderate | Moderate | Moderate | Moderate | Moderate | Moderate | Moderate |
+| **Resource Requirements**      | High     | High                         | High  | High  | Moderate | High | Moderate | High | High | Moderate       |
+| **Speed of Deployment**        | Moderate | Moderate                     | Moderate-High | Moderate | High   | Moderate | High  | Moderate | High | High           |
+| **Accuracy and Reliability**   | High     | High                         | High  | High  | High   | Very High | High  | High | Very High | High         |
+| **Flexibility**                | High     | High                         | High  | High  | High   | High | Very High | High | Very High | High           |
+| **Cost-Effectiveness**         | High     | High                         | High  | High  | High   | Moderate-High | High  | High | High | High         |
+| **Stakeholder Acceptance**     | High     | High                         | High  | High  | High   | High | High  | High | High | High          |
+| **Integration with Existing Systems** | High     | High                         | High  | High  | High   | High | High  | High | High | High           |
+| **Regulatory Compliance**      | High     | High                         | High  | High  | High   | High | High  | High | High | High          |
+| **Robustness to Evolving Threats** | High     | High                         | High  | High  | High   | Very High | High  | Very High | Very High | High         |
+| **Data Requirements**          | High     | High                         | High  | High  | High   | High | High  | High | High | High           |
 
 ### 6.4 Expert Recommendations and Best Practices
 **General Advice**
