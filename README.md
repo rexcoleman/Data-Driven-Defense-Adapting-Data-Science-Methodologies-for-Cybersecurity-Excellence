@@ -1428,7 +1428,7 @@ In conclusion, the effective application of data science methodologies in cybers
     - Available at: [State of AI in Cybersecurity](https://www.sans.org/white-papers/state-ai-cybersecurity/)
 
 14. European Union Agency for Cybersecurity (ENISA). (2016). Big Data Threat Landscape and Good Practice Guide.
-    - Available at: [ENISA Guide](https://www.enisa.europa.eu/publications/big-data-threat-landscape)
+    - Available at: [ENISA Guide](https://www.enisa.europa.eu/publications/bigdata-threat-landscape)
 
 15. IEEE Computer Society. (2017). Special Issue on Data Science and Cybersecurity.
     - Available at: [IEEE Data Science and Cybersecurity](https://www.computer.org/csdl/magazine/co/2017/05/index)
