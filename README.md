@@ -631,23 +631,6 @@ By integrating Risk Quantification and Analytics into their cybersecurity practi
 
 ## 5. Comparative Analysis of Methodologies
 
-### Table of Contents
-1. [Introduction](#51-introduction)
-2. [Comparison Criteria](#52-comparison-criteria)
-3. [General Methodologies with Cybersecurity Applications](#53-general-methodologies-with-cybersecurity-applications)
-   - [CRISP-DM](#531-crisp-dm)
-   - [IBM Data Science Methodology](#532-ibm-data-science-methodology)
-   - [TDSP](#533-tdsp)
-   - [KDD](#534-kdd)
-   - [SEMMA](#535-semma)
-4. [Cybersecurity-Specific Data Science Methodologies](#54-cybersecurity-specific-data-science-methodologies)
-   - [Cybersecurity Data Science (CSDS) Methodology](#541-cybersecurity-data-science-csds-methodology)
-   - [Security-Oriented Agile Methodology](#542-security-oriented-agile-methodology)
-   - [Threat Modeling](#543-threat-modeling)
-   - [AI-Driven Predictive Cybersecurity Frameworks](#544-ai-driven-predictive-cybersecurity-frameworks)
-   - [Risk Quantification and Analytics](#545-risk-quantification-and-analytics)
-5. [Conclusion](#5-conclusion)
-
 ### 5.1 Introduction
 
 In the evolving landscape of cybersecurity, selecting the appropriate data science methodology is crucial for effectively identifying, predicting, and mitigating threats. This section provides a comparative analysis of both general and specialized data science methodologies, evaluating them against a set of criteria to understand their strengths, weaknesses, and best use cases in cybersecurity.
