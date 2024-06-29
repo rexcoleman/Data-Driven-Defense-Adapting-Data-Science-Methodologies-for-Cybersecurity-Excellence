@@ -1418,19 +1418,10 @@ In conclusion, the effective application of data science methodologies in cybers
 10. OWASP. (2020). OWASP Risk Rating Methodology.
     - Available at: [OWASP Risk Rating](https://owasp.org/www-community/OWASP_Risk_Rating_Methodology)
 
-11. Microsoft Azure. (2020). Security-Oriented Agile Methodology for Cybersecurity.
-    - Available at: [Security-Oriented Agile Methodology](https://azure.microsoft.com/en-us/resources/whitepapers/agile-security-framework/)
-
-12. Rege, A., & Shujaee, A. (2018). Case Study on Predictive Analytics in Cybersecurity. Journal of Cybersecurity Research, 4(1), 45-60.
-    - Available at: [Predictive Analytics in Cybersecurity](https://example.com/journal-link)
-
-13. SANS Institute. (2019). The State of AI in Cybersecurity.
-    - Available at: [State of AI in Cybersecurity](https://www.sans.org/white-papers/state-ai-cybersecurity/)
-
-14. European Union Agency for Cybersecurity (ENISA). (2016). Big Data Threat Landscape and Good Practice Guide.
+11. European Union Agency for Cybersecurity (ENISA). (2016). Big Data Threat Landscape and Good Practice Guide.
     - Available at: [ENISA Guide](https://www.enisa.europa.eu/publications/bigdata-threat-landscape)
 
-15. IEEE Computer Society. (2017). Special Issue on Data Science and Cybersecurity.
+12. IEEE Computer Society. (2017). Special Issue on Data Science and Cybersecurity.
     - Available at: [IEEE Data Science and Cybersecurity](https://www.computer.org/csdl/magazine/co/2017/05/index)
 
 
