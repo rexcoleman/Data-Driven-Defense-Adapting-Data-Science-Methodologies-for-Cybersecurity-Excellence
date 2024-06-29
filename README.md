@@ -131,7 +131,7 @@ The Cross-Industry Standard Process for Data Mining (CRISP-DM) is a widely adopt
 
 <img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="600">
 
-*Figure 1: CRISP-DM Process Diagram.*
+*Figure 1: CRISP-DM flowchart.*
 
 **Case Study: Applying CRISP-DM in a Financial Institution**
 
@@ -181,6 +181,10 @@ By integrating the CRISP-DM methodology into their cybersecurity practices, the 
 
 **Overview:**
 The IBM Data Science Methodology is a structured approach to data science projects, emphasizing a hypothesis-driven approach to solve business problems. This methodology is particularly useful in cybersecurity, where identifying and mitigating threats requires systematic analysis and a thorough understanding of potential vulnerabilities. The IBM Data Science Methodology consists of ten steps: From defining the business problem to communicating results and deploying the model.
+
+<img src="img/datascience_methodology_flowchart.png" alt="CRISP-DM" width="600">
+
+*Figure 1: IBM Data Science Methodology flowchart.*
 
 **Case Study: Applying IBM Data Science Methodology in a Telecom Company**
 
