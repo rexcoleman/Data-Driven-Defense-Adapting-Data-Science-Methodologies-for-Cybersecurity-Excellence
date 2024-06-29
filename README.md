@@ -131,7 +131,7 @@ The Cross-Industry Standard Process for Data Mining (CRISP-DM) is a widely adopt
 
 ![CRISP-DM](img/CRISP-DM_Process_Diagram.png)
 
-*Figure 2: Surf Art Stenography - This image shows an exagerated visual representaqtion of a cybercriminal concealing sensitive infromation (Basquiat Painting) inside a surf image. The cybersecurity goal in this context would be to identify sensitive information such as malware or encryption keys that a threat actor subtly hid within the image to avoid detection.*
+*Figure 1: CRISP-DM Process Diagram.*
 
 **Case Study: Applying CRISP-DM in a Financial Institution**
 
