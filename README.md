@@ -129,7 +129,7 @@ In conclusion, specialized data science methodologies are indispensable in the r
 **Overview:**
 The Cross-Industry Standard Process for Data Mining (CRISP-DM) is a widely adopted methodology for data mining and data science projects. Its structured, iterative approach is highly effective in cybersecurity for identifying, predicting, and mitigating threats. CRISP-DM consists of six phases: Business Understanding, Data Understanding, Data Preparation, Modeling, Evaluation, and Deployment.
 
-![CRISP-DM](img/CRISP-DM_Process_Diagram.png)
+<img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="600">
 
 *Figure 1: CRISP-DM Process Diagram.*
 
