@@ -34,7 +34,7 @@ By examining theoretical aspects and practical applications, this report seeks t
 10. [Appendix](#10-appendix)
 
 
-## Introduction
+## 1. Introduction
 
 ### 1.1 The Convergence of Data Science and Cybersecurity
 
