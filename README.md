@@ -131,7 +131,7 @@ The Cross-Industry Standard Process for Data Mining (CRISP-DM) is a widely adopt
 
 <img src="img/CRISP-DM_Process_Diagram.png" alt="CRISP-DM" width="600">
 
-*Figure 1: CRISP-DM flowchart.*
+*Figure 1: CRISP-DM diagram*
 
 **Case Study: Applying CRISP-DM in a Financial Institution**
 
@@ -182,9 +182,9 @@ By integrating the CRISP-DM methodology into their cybersecurity practices, the 
 **Overview:**
 The IBM Data Science Methodology is a structured approach to data science projects, emphasizing a hypothesis-driven approach to solve business problems. This methodology is particularly useful in cybersecurity, where identifying and mitigating threats requires systematic analysis and a thorough understanding of potential vulnerabilities. The IBM Data Science Methodology consists of ten steps: From defining the business problem to communicating results and deploying the model.
 
-<img src="img/datascience_methodology_flowchart.png" alt="CRISP-DM" width="600">
+<img src="img/datascience_methodology_flowchart.png" alt="IBM" width="600">
 
-*Figure 1: IBM Data Science Methodology flowchart.*
+*Figure 2: IBM Data Science Methodology flowchart*
 
 **Case Study: Applying IBM Data Science Methodology in a Telecom Company**
 
@@ -255,6 +255,10 @@ By integrating the IBM Data Science Methodology into their cybersecurity practic
 **Overview:**
 The Team Data Science Process (TDSP) is a robust, collaborative framework designed to improve the efficiency and effectiveness of data science projects. TDSP emphasizes structured team collaboration, continuous improvement, and iterative development, making it particularly suitable for complex and dynamic fields like cybersecurity. The TDSP lifecycle includes Business Understanding, Data Acquisition and Understanding, Modeling, Deployment, and Customer Acceptance.
 
+<img src="img/tdsp-lifecycle2.png" alt="TDSP" width="600">
+
+*Figure 3: TDSP Life Cycle*
+
 **Case Study: Implementing TDSP in a Financial Services Company**
 
 A financial services company aims to enhance its cybersecurity measures to detect and prevent fraudulent transactions. By adopting the TDSP methodology, the company systematically approaches the problem, ensuring thorough analysis and robust solutions through collaborative efforts.
@@ -300,6 +304,10 @@ By integrating the TDSP methodology into their cybersecurity practices, the fina
 **Overview:**
 The Knowledge Discovery in Databases (KDD) process is a comprehensive methodology for extracting useful knowledge from large datasets. It encompasses several stages, from data selection and preprocessing to data mining and interpretation. This structured approach is particularly effective in cybersecurity for identifying patterns and anomalies that may indicate security threats. The KDD process consists of five main steps: Selection, Preprocessing, Transformation, Data Mining, and Interpretation/Evaluation.
 
+<img src="img/kdd-process-1.jpg" alt="TDSP" width="600">
+
+*Figure 4: KDD process*
+
 **Case Study: Implementing KDD in an E-Commerce Platform**
 
 An e-commerce platform aims to enhance its cybersecurity measures to detect fraudulent activities and protect customer data. By adopting the KDD methodology, the platform systematically approaches the problem, ensuring thorough analysis and robust solutions.
@@ -343,6 +351,10 @@ By integrating the KDD methodology into their cybersecurity practices, the e-com
 
 **Overview:**
 SEMMA stands for Sample, Explore, Modify, Model, and Assess. It is a robust data mining process designed to guide the development of data science projects. SEMMA is particularly effective in cybersecurity for quickly developing models that can identify and mitigate threats. By following the SEMMA methodology, data scientists can systematically approach problem-solving, ensuring that each step contributes to the overall effectiveness of the security measures.
+
+<img src="img/SEMMA.JPG" alt="TDSP" width="600">
+
+*Figure 5: SEMMA*
 
 **Case Study: Implementing SEMMA in a Financial Services Company**
 
