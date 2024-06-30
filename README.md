@@ -403,6 +403,10 @@ By integrating the SEMMA methodology into their cybersecurity practices, the fin
 **Overview:**
 The Cybersecurity Data Science (CSDS) Methodology integrates advanced data science techniques with cybersecurity practices to enhance threat detection, prediction, and mitigation. This methodology leverages machine learning, statistical analysis, and big data analytics to develop systems that proactively identify and respond to cyber threats.
 
+<img src="img/cybersecurity_security_data_science.png" alt="TDSP" width="600">
+
+*Figure 6: Cybersecurity Data Science (CSDS) Methodology*
+
 **Case Study: Implementing CSDS Methodology in an E-Commerce Platform**
 
 An e-commerce platform aims to safeguard its extensive user data and transaction processes. By adopting the CSDS Methodology, the platform enhances its security measures through advanced data analytics and machine learning.
@@ -462,6 +466,10 @@ By integrating data science deeply into cybersecurity practices, the e-commerce 
 **Overview:**
 The Security-Oriented Agile Methodology adapts the principles of Agile development to the specific needs of cybersecurity. This methodology emphasizes iterative development, continuous feedback, and high adaptability to rapidly changing security environments. It supports quick responses to emerging threats and facilitates the integration of security at every stage of software development and system management.
 
+<img src="img/security_with_agile_development-1.png" alt="TDSP" width="600">
+
+*Figure 7: Security-Oriented Agile Methodology*
+
 **Case Study: Implementing Security-Oriented Agile Methodology in a Cloud Service Provider**
 
 A cloud service provider (CSP) needs to ensure the continuous security of its services, which support multiple clients across various industries. The CSP adopts a Security-Oriented Agile Methodology to manage and improve its security practices in line with agile development cycles.
@@ -504,6 +512,10 @@ By adopting the Security-Oriented Agile Methodology, the CSP ensures that securi
 
 **Overview:**
 Threat Modeling is a critical practice in cybersecurity, focusing on identifying, predicting, and defining potential threats, as well as determining systematic solutions to mitigate such threats. Among the various approaches to threat modeling, STRIDE, PASTA, and Trike are particularly notable. This section will delve into the STRIDE methodology, which is widely used due to its structured approach to identifying specific types of threats.
+
+<img src="img/stride.png" alt="TDSP" width="600">
+
+*Figure 8: STRIDE Threat Modeling Methodology*
 
 **Case Study: Application of STRIDE in a Financial Services Firm**
 
