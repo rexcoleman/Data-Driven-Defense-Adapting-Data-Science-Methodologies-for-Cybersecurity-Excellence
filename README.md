@@ -681,7 +681,7 @@ To provide a comprehensive comparison, we use the following criteria:
 ### 5.3 General Methodologies with Cybersecurity Applications
 
 <details>
-<summary id="531-crisp-dm">Click to expand: CRISP-DM</summary> Click to expand.
+<summary id="531-crisp-dm">CRISP-DM: Click to expand.</summary> Click to expand.
 
 **Applicability to Cybersecurity**
 - CRISP-DM is highly applicable due to its structured approach to solving complex problems.
@@ -746,7 +746,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="532-ibm-data-science-methodology">Click to expand: IBM Data Science Methodology</summary>
+<summary id="532-ibm-data-science-methodology">IBM Data Science Methodology: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - Excellent for hypothesis-driven projects, suitable for detailed analysis.
@@ -811,7 +811,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="533-tdsp">Click to expand: TDSP</summary>
+<summary id="533-tdsp">TDSP: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - Strong team collaboration focus, ideal for multidisciplinary projects.
@@ -876,7 +876,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="534-kdd">Click to expand: KDD</summary>
+<summary id="534-kdd">KDD: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - Excellent for pattern recognition and anomaly detection.
@@ -1008,7 +1008,7 @@ To provide a comprehensive comparison, we use the following criteria:
 ### 5.4 Cybersecurity-Specific Data Science Methodologies
 
 <details>
-<summary id="541-cybersecurity-data-science-csds-methodology">Cybersecurity Data Science (CSDS) Methodology</summary>
+<summary id="541-cybersecurity-data-science-csds-methodology">Cybersecurity Data Science (CSDS) Methodology: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - Highly specialized, directly addresses cybersecurity issues.
@@ -1073,7 +1073,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="542-security-oriented-agile-methodology">Security-Oriented Agile Methodology</summary>
+<summary id="542-security-oriented-agile-methodology">Security-Oriented Agile Methodology: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - Excellent for dynamic threat landscapes, supports continuous improvement.
@@ -1138,7 +1138,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="543-threat-modeling">Threat Modeling</summary>
+<summary id="543-threat-modeling">Threat Modeling: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - Directly targets identifying and mitigating threats.
@@ -1203,7 +1203,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="544-ai-driven-predictive-cybersecurity-frameworks">AI-Driven Predictive Cybersecurity Frameworks</summary>
+<summary id="544-ai-driven-predictive-cybersecurity-frameworks">AI-Driven Predictive Cybersecurity Frameworks: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - State-of-the-art, ideal for predictive threat detection.
@@ -1268,7 +1268,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="545-risk-quantification-and-analytics">Risk Quantification and Analytics</summary>
+<summary id="545-risk-quantification-and-analytics">Risk Quantification and Analytics: Click to expand.</summary>
 
 **Applicability to Cybersecurity**
 - Excellent for assessing and managing risks.
