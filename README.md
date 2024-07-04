@@ -28,9 +28,8 @@ By examining both theoretical aspects and practical applications, this report ai
 5. [Comparative Analysis of Methodologies](#5-comparative-analysis-of-methodologies)
     - [5.1 Introduction](#51-introduction)
     - [5.2 Comparison Criteria](#52-comparison-criteria)
-    - [5.3 General Methodologies with Cybersecurity Applications](#53-general-methodologies-with-cybersecurity-applications)
-    - [5.4 Cybersecurity-Specific Data Science Methodologies](#54-cybersecurity-specific-data-science-methodologies)
-    - [5.5 Conclusion](#55-conclusion)
+    - [5.3 Evaluating Methodologies Against Criteria](#53-evaluating-methodologies-against-criteria)
+    - [5.4 Conclusion](#54-conclusion)
 6. [Selecting the Right Methodology for Cybersecurity Projects](#6-selecting-the-right-methodology-for-cybersecurity-projects)
 7. [Conclusion](#7-conclusion)
 8. [References](#8-references)
@@ -678,7 +677,7 @@ To provide a comprehensive comparison, we use the following criteria:
 - **Robustness to Evolving Threats**
 - **Data Requirements**
 
-### 5.3 General Methodologies with Cybersecurity Applications
+### 5.3 Evaluating Methodologies Against Criteria
 
 <details>
 <summary id="531-crisp-dm">🔵 CRISP-DM: Click to expand. 🔵</summary> 
@@ -1005,8 +1004,6 @@ To provide a comprehensive comparison, we use the following criteria:
 
 </details>
 
-### 5.4 Cybersecurity-Specific Data Science Methodologies
-
 <details>
 <summary id="541-cybersecurity-data-science-csds-methodology">🔵 Cybersecurity Data Science (CSDS) Methodology: Click to expand. 🔵</summary>
 
@@ -1332,7 +1329,7 @@ To provide a comprehensive comparison, we use the following criteria:
 
 </details>
 
-### 5.5 Conclusion
+### 5.4 Conclusion
 
 In conclusion, each methodology offers unique strengths and is suited to different aspects of cybersecurity. General methodologies like CRISP-DM, IBM Data Science Methodology, TDSP, KDD, and SEMMA provide robust frameworks for structured data analysis and model development. Cybersecurity-specific methodologies such as CSDS, Security-Oriented Agile Methodology, Threat Modeling, AI-Driven Predictive Cybersecurity Frameworks, and Risk Quantification and Analytics offer tailored approaches to address specific security challenges. Organizations should choose methodologies based on their specific needs, resources, and the nature of the threats they face, ensuring a comprehensive and effective cybersecurity strategy.
 
