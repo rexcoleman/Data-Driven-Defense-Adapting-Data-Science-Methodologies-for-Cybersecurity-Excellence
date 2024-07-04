@@ -30,11 +30,6 @@ By examining both theoretical aspects and practical applications, this report ai
     - [5.2 Comparison Criteria](#52-comparison-criteria)
     - [5.3 General Methodologies with Cybersecurity Applications](#53-general-methodologies-with-cybersecurity-applications)
     - [5.4 Cybersecurity-Specific Data Science Methodologies](#54-cybersecurity-specific-data-science-methodologies)
-        - [5.4.1 Cybersecurity Data Science (CSDS) Methodology](#541-cybersecurity-data-science-csds-methodology)
-        - [5.4.2 Security-Oriented Agile Methodology](#542-security-oriented-agile-methodology)
-        - [5.4.3 Threat Modeling](#543-threat-modeling)
-        - [5.4.4 AI-Driven Predictive Cybersecurity Frameworks](#544-ai-driven-predictive-cybersecurity-frameworks)
-        - [5.4.5 Risk Quantification and Analytics](#545-risk-quantification-and-analytics)
     - [5.5 Conclusion](#55-conclusion)
 6. [Selecting the Right Methodology for Cybersecurity Projects](#6-selecting-the-right-methodology-for-cybersecurity-projects)
 7. [Conclusion](#7-conclusion)
@@ -751,7 +746,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="532-ibm-data-science-methodology">IBM Data Science Methodology</summary>
+<summary id="532-ibm-data-science-methodology">Click to expand: IBM Data Science Methodology</summary>
 
 **Applicability to Cybersecurity**
 - Excellent for hypothesis-driven projects, suitable for detailed analysis.
@@ -816,7 +811,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="533-tdsp">TDSP</summary>
+<summary id="533-tdsp">Click to expand: TDSP</summary>
 
 **Applicability to Cybersecurity**
 - Strong team collaboration focus, ideal for multidisciplinary projects.
@@ -881,7 +876,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="534-kdd">KDD</summary>
+<summary id="534-kdd">Click to expand: KDD</summary>
 
 **Applicability to Cybersecurity**
 - Excellent for pattern recognition and anomaly detection.
@@ -946,7 +941,7 @@ To provide a comprehensive comparison, we use the following criteria:
 </details>
 
 <details>
-<summary id="535-semma">SEMMA</summary>
+<summary id="535-semma">SEMMA: Click to expand...</summary>
 
 **Applicability to Cybersecurity**
 - Effective for rapid model development and iteration.
