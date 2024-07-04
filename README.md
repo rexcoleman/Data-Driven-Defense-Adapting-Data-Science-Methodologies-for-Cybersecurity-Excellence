@@ -686,7 +686,7 @@ To provide a comprehensive comparison, we use the following criteria:
 ### 5.3 General Methodologies with Cybersecurity Applications
 
 <details>
-<summary id="531-crisp-dm">CRISP-DM</summary> Click to expand.
+<summary id="531-crisp-dm">Click to expand: CRISP-DM</summary> Click to expand.
 
 **Applicability to Cybersecurity**
 - CRISP-DM is highly applicable due to its structured approach to solving complex problems.
